@@ -1,7 +1,11 @@
 [english](Readme_en.md)
-# HC小区管理系统是前后端完全开源并免费商用的小区物业管理系统，包含小区后端项目，小区前段项目，物业版uni-app和业主版uni-app,最新SQL文件加群获取827669685(已满)，799748606（已满）1038870655（群三）
+# HC小区管理系统是前后端完全开源并免费商用的小区物业管理系统，包含小区后端项目，小区前段项目，物业版uni-app和业主版uni-app,最新SQL文件加群获取 857791253、1038870655、770542020、274026637
+
+### 作者微信 17797173942
 
 ## 开源代码说明
+
+国内访问太慢 请移步到 gitee 获取最新代码
 
 ### HC小区后端代码
  [https://gitee.com/wuxw7/MicroCommunity](https://gitee.com/wuxw7/MicroCommunity)
@@ -12,9 +16,12 @@
 ### HC掌上物业（物业版uni-app）
 [https://gitee.com/java110/PropertyApp](https://gitee.com/java110/PropertyApp)
 
+### HC社区商城（免费安装使用）
+[http://bbs.homecommunity.cn/topic/84-shang-cheng-bu-shu-bao-xia-zai](http://bbs.homecommunity.cn/topic/84-shang-cheng-bu-shu-bao-xia-zai)
+
 ### 分支说明（branch）
 
-分支管理说明，master 为主分支，0.7-stable 为最新稳定分支（推荐使用）
+分支管理说明，master 为主分支，0.8-stable 为最新稳定分支（推荐使用）
 
 
 ### 如何开始（how to start）
@@ -23,17 +30,20 @@
 
 ### 如何安装（how to install）
 
-方案一、centos7.6一键式自动安装
+方案一、梓豪方式
 
-> yum install -y wget && wget https://dl.winqi.cn/hc/hcInstall.sh && sh hcInstall.sh 您的私网IP
+> http://bbs.homecommunity.cn/pages/bbs/topic.html?topicId=102022012655760522
 
-注意：您的私网IP为服务器内网ip 如果服务器只有一个私网ip时可以省略不填写，如果有多个时需要指定
 
-[参考视频](https://www.bilibili.com/video/BV1Dk4y19728/)
+[参考视频](https://www.bilibili.com/video/BV1Zq4y1c7Ph?spm_id_from=333.999.0.0)
 
 方案二、根据需求自助部署
 
 [参考视频](https://www.bilibili.com/video/BV1N7411E7rf/)
+
+方案三、宝塔方式安装
+
+[宝塔方式安装](http://bbs.homecommunity.cn/pages/bbs/topic.html?topicId=102021110831560082)
 
 ### 操作文档
 
@@ -64,8 +74,6 @@
 
 物业 账号/密码：wuxw/admin
 
-代理商 账号/密码：dails/admin
-
 运维团队 账号/密码：admin/admin
 
 开发团队 账号/密码：dev/(由于开发者权限较大，删除数据会影响稳定性，查看具体功能，可以单独部署在u_user 表中修改)
@@ -88,7 +96,8 @@
 
 ### 加入我们（join）
 
-加入微小区交流群随时了解项目进度，和java110开发者零距离沟通 qq群号 827669685(已满)，799748606（群二），邮箱：928255095@qq.com
+
+加入微小区交流群随时了解项目进度，和java110开发者零距离沟通 qq群号 857791253、1038870655、770542020、274026637 邮箱：928255095@qq.com
 
 ![image](docs/img/qq.png)
 
